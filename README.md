@@ -1,13 +1,13 @@
 # Hi there :wave:
 
-[<img src="https://raw.githubusercontent.com/Pieter414/Pieter414/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Pieter414/Pieter414/test/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 My name is Pieter <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">.
 I'm a coordinator of research assistant @Intelligent System Lab and Computer science student @Brawijaya University. Currently in Malang, Indonesia.
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pieter-christy-yan-yudhistira/)](https://www.linkedin.com/in/pieter-christy-yan-yudhistira/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Pieter414?label=follow&style=social)](https://github.com/Pieter414)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Pieter414&color=00cf00)
+[![LinkedIn: Pieter Christy Yan Yudhistira](https://img.shields.io/badge/LinkedIn-Pieter%20Christy%20Yan%20Yudhistira-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pieter-christy-yan-yudhistira/)
+[![GitHub Pieter414](https://img.shields.io/github/followers/Pieter414?label=follow&style=social)](https://github.com/Pieter414)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
