@@ -1,6 +1,8 @@
 # Hi there :wave:
 
+<!--
 [<img src="https://raw.githubusercontent.com/Pieter414/Pieter414/test/intro.gif" alt="👋 Hi there! I'm Pieter C" title="👋 Hi there! I'm Pieter"/>]([https://Pie/](https://pieter414.github.io/))
+-->
 
 My name is Pieter <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">.
 I'm a coordinator of research assistant @Intelligent System Lab and Computer science student @Brawijaya University. Currently in Malang, Indonesia.
