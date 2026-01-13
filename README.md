@@ -29,9 +29,9 @@ const profile = {
   code: [Python, Java, C, Javascript, HTML, CSS],
   tools: [Pandas, Numpy, Pytorch, Tensorflow],
   laboratory: {
-                  lab: "Intelligent System Laboratory",
-                  organization: "Faculty of Computer Science, Brawijaya University"
-              },
+      lab: "Intelligent System Laboratory",
+      organization: "Faculty of Computer Science, Brawijaya University"
+  },
 }
 ```
 
