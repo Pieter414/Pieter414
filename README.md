@@ -14,14 +14,24 @@ I'm a coordinator of research assistant @Intelligent System Lab and Computer sci
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const id = {
-  pronouns: "he" | "him",
+const profile = {
+  identity: {
+    name: "Pieter C. Y. Yudhistira",
+    pronouns: ["he", "him"]
+  },
+  role: "AI / ML Researcher & Computer Science Student",
+  interests: [
+    "Data Science",
+    "Applied Machine Learning",
+    "AI & Deep Learning Research",
+    "Graph Neural Networks",
+  ],
   code: [Python, Java, C, Javascript, HTML, CSS],
   tools: [Pandas, Numpy, Pytorch, Tensorflow],
   laboratory: {
-                        lab: "Intelligent System Laboratory",
-                        organization: "Faculty of Computer Science, Brawijaya University"
-                      },
+                  lab: "Intelligent System Laboratory",
+                  organization: "Faculty of Computer Science, Brawijaya University"
+              },
 }
 ```
 
@@ -53,5 +63,5 @@ const id = {
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (duh) | Proficiency at Reading, Listening and Writing								|
+| English | Proficiency at Reading, Listening and Writing								|
 | Indonesian    | Native language                                                           |
